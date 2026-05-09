@@ -262,7 +262,7 @@ Application **Streamlit** localisée dans `dashboard/app.py`.
 ### Installation des dépendances
 
 ```bash
-git clone https://github.com/<votre-org>/benin-insights-2026.git
+git clone https://github.com/FidTCHANDO/benin-insights-2026.git
 cd benin-insights-2026
 pip install -r requirements.txt
 ```
